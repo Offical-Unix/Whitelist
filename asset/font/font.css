@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bagel_Fat_One';
+    src: url('./Bagel_Fat_One/BagelFatOne-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./Lato/Lato-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+body{
+    font-family: 'Lato';
+}
